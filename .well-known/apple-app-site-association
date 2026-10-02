@@ -1,0 +1,13 @@
+{
+  "applinks": {
+    "apps": [],
+    "details": [
+      {
+        "appIDs": ["9PNUA34CYV.com.dadungimoa.app"],
+        "appID": "9PNUA34CYV.com.dadungimoa.app",
+        "paths": ["/dadungimoa-data/m/*"],
+        "components": [{ "/": "/dadungimoa-data/m/*", "comment": "다둥이모아 업체 공유 링크" }]
+      }
+    ]
+  }
+}

@@ -1,0 +1,13 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.dadungimoa.app",
+      "sha256_cert_fingerprints": [
+        "5F:C1:58:D4:58:1A:76:90:3D:8B:BE:73:E1:AC:8B:6E:10:92:2E:20:3E:C5:19:2D:8C:C6:05:20:ED:96:8E:95",
+        "D7:14:42:73:E0:EC:D3:40:31:3D:9A:EE:A6:63:B9:5C:B7:FD:6B:64:2A:61:7A:EB:F0:5F:1B:4D:B3:5A:D0:B1"
+      ]
+    }
+  }
+]
